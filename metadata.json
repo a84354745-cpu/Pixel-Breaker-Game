@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Breaker",
+  "description": "500-level arcade brick breaker with sub-stepped physics, pixel art pictures, power-ups, and boss encounters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
